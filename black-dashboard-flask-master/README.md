@@ -1,42 +1,3 @@
- ![version](https://img.shields.io/badge/version-1.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/black-dashboard-flask.svg?maxAge=2592000)](https://github.com/creativetimofficial/black-dashboard-flask/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/black-dashboard-flask.svg?maxAge=2592000)](https://github.com/creativetimofficial/black-dashboard-flask/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
-
-![Black Dashboard Flask - Admin Dashboard coded in Django.](https://github.com/creativetimofficial/black-dashboard-flask/blob/master/media/black-dashboard-flask-intro.gif)
-
-<br />
-
-> Features:
-
-- ✅ `Up-to-date dependencies`
-- ✅ Black Dashboard, BS4 Design
-- ✅ `DB Tools`: SQLAlchemy ORM, `Flask-Migrate` (schema migrations)
-- ✅ `Persistence`: SQLite (dev), MySql (prod)
-- ✅ `Authentication`: Session Based, `OAuth` via Github
-- ✅ `Deployment`: Docker, Page Compression (Flask-Minify) 
-
-<br />
-
-## Table of Contents
-
-* [Demo](#demo)
-* [Docker Support](#docker-support)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
-<br />
-
-## Demo
-
-> To authenticate use the default credentials ***test / pass*** or create a new user on the [registration page](https://www.creative-tim.com/live/black-dashboard-flask).
-
-- **Black Dashboard Flask** [Login Page](https://www.creative-tim.com/live/black-dashboard-flask)
-
 <br />
 
 ## Docker Support
@@ -172,15 +133,7 @@ $danger:        #fd5d93 !default; // EDIT for customization
 $black:         #222a42 !default; // EDIT for customization
 ```
 
-<br />
-
-## Documentation
-
-The documentation for the **Black Dashboard Flask** is hosted at our [website](https://demos.creative-tim.com/black-dashboard-flask/docs/1.0/getting-started/getting-started-flask.html).
-
-<br />
-
-## File Structure
+File Structure
 
 Within the download you'll find the following directories and files:
 
@@ -241,57 +194,8 @@ At present, we officially aim to support the last two versions of the following 
 
 <br />
 
-## Resources
+<br />
 
-- Demo: <https://www.creative-tim.com/live/black-dashboard-flask>
-- Download Page: <https://www.creative-tim.com/product/black-dashboard-flask>
-- Documentation: <https://demos.creative-tim.com/black-dashboard-flask/docs/1.0/getting-started/getting-started-flask.html>
-- License Agreement: <https://www.creative-tim.com/license>
-- Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/black-dashboard-flask/issues)
 
 <br />
 
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the **Black Dashboard Flask**. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the **Black Dashboard Flask**. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser-specific, so specifying in what browser you encountered the issue might help.
-
-<br />
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
-
-<br />
-
-## Licensing
-
-- Copyright 2019 - present [Creative Tim](https://www.creative-tim.com/)
-- Licensed under [Creative Tim EULA](https://www.creative-tim.com/license)
-
-<br />
-
-## Useful Links
-
-- [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-
-<br />
-
-## Social Media
-
-- Twitter: <https://twitter.com/CreativeTim>
-- Facebook: <https://www.facebook.com/CreativeTim>
-- Dribbble: <https://dribbble.com/creativetim>
-- Instagram: <https://www.instagram.com/CreativeTimOfficial>
-
-<br />
-
----
-[Black Dashboard Flask](https://www.creative-tim.com/product/black-dashboard-flask) - Provided by [Creative Tim](https://www.creative-tim.com/) and [AppSeed](https://appseed.us)
